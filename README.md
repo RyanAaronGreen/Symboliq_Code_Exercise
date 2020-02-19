@@ -3,13 +3,13 @@ This coding exercise will be used to determine what level of comfort you have wi
 
 **PLEASE READ THROUGH THE DIRECTIONS BEFORE YOU BEGIN**
 
-In order to begin this exercise, download the files to your computer. Within this repository, you will see an Adobe XD file, a jpg of the design, as well as a folder of all images used in the design. You will be expected to create your own HTML document (as well as css file and javascript file where needed) and mimic the design file to your best of abilities. Please note that We are not expecting perfection! Design files are there for direction, but we are aware that with responsive web design that some things may be flexible. Do your best to match the design where you can. 
+In order to begin this exercise, download the files to your computer. Within this repository, you will see an Adobe XD file, a jpg of the design, as well as a folder of all images used in the design. You will be expected to create your own HTML document (as well as css file and javascript file where needed) and mimic the design file to your best of abilities. Please note that we are not expecting perfection! Design files are there for direction, but we are aware that with responsive web design that some things may be flexible. Do your best to match the design where you can. 
 
 If there are any difficult sections, please call them out and explain what issues you ran into. **Yes, we're looking for proficiency in your code, but more importantly we want to see how you think through an issue or problem.**
 
 
 ## **The Project**
-You will be coding the website for the ficticious Fido N' Friends company. You can see their design below:
+You will be coding the website for the fictitious Fido N' Friends company. You can see their design below:
 
 ![alt text](Symboliq_Code_Exercise.jpg "Fido and Friends Mockup")
 
